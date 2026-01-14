@@ -23,7 +23,7 @@ const certificados = [
     imagem: "/certificados/thumb-ia-dio.jpg",
     link: "/certificados/formacao-ia-dio.pdf"
   },
-  // Adicione os outros certificados aqui conforme listados no seu código atual
+  
 ];
 
 const meusProjetos = [
@@ -180,7 +180,8 @@ export default function App() {
                 </p>
                 <p>
                   Atualmente, atuo como <span className="text-purple-300 font-medium">Auxiliar de Suporte TI</span> na JBM Usinagem, onde aplico meus conhecimentos em infraestrutura e redes.
-                  Meu foco atualmente é buscar vagas de trabalho na área de desenvolvimento de software, atuando como desenvolvedor Junior, de modo a aplicar e aprimorar meus conhecimentos em programação na prática.
+                  Meu foco atualmente é direcionar meu desenvolvimento profissional para áreas como desenvolvimento de software, análise de sistemas e engenharia de dados, buscando oportunidades de nível júnior que me permitam aplicar,
+                   aprofundar e expandir meus conhecimentos em programação, dados e soluções tecnológicas na prática.
                 </p>
               </div>
             </div>
