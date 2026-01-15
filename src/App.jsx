@@ -180,7 +180,7 @@ export default function App() {
                 </p>
                 <p>
                   Atualmente, atuo como <span className="text-purple-300 font-medium">Auxiliar de Suporte TI</span> na JBM Usinagem, onde aplico meus conhecimentos em infraestrutura e redes.
-                  Meu foco atualmente é direcionar meu desenvolvimento profissional para áreas como desenvolvimento de software, análise de sistemas e engenharia de dados, buscando oportunidades de nível júnior que me permitam aplicar,
+                  Meu foco atualmente é direcionar meu desenvolvimento profissional para áreas como desenvolvimento de software, análise de sistemas e engenharia de dados, buscando oportunidades de nível júnior e pleno que me permitam aplicar,
                    aprofundar e expandir meus conhecimentos em programação, dados e soluções tecnológicas na prática.
                 </p>
               </div>
