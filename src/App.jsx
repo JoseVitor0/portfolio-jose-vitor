@@ -114,7 +114,7 @@ export default function App() {
 
       <div className="bg-[#0f0f0f] text-gray-200 min-h-screen font-sans">
         <header className="sticky top-0 z-50 flex justify-between items-center p-6 border-b border-gray-700 bg-[#0f0f0f]/80 backdrop-blur-md">
-          <h1 className="text-xl font-bold">José Vitor | Analista de Sistemas Jr | Desenvolvedor Python e Android | Ciência da Computação </h1>
+          <h1 className="text-xl font-bold">José Vitor | Analista de Sistemas Jr | Desenvolvedor Python e Android</h1>
           <nav className="space-x-6 hidden md:block">
             <a href="#sobre" className="hover:text-purple-400 transition-colors">Sobre</a>
             <a href="#projetos" className="hover:text-purple-400 transition-colors">Projetos</a>
