@@ -179,7 +179,7 @@ export default function App() {
                   Durante a graduação, adquiri e aprofundei meus conhecimentos em áreas fundamentais como compiladores, algoritmos, desenvolvimento de softwares e aplicativos e IA.
                 </p>
                 <p>
-                  Atualmente, atuo como <span className="text-purple-300 font-medium">Auxiliar de Suporte TI</span> na JBM Usinagem, onde aplico meus conhecimentos em infraestrutura e redes.
+                  Atualmente, atuo como <span className="text-purple-300 font-medium">Assistente de TI</span> na JBM Usinagem, onde aplico meus conhecimentos em infraestrutura e redes.
                   Meu foco atualmente é direcionar meu desenvolvimento profissional para áreas como desenvolvimento de software, análise de sistemas e engenharia de dados, buscando oportunidades de nível júnior e pleno que me permitam aplicar,
                    aprofundar e expandir meus conhecimentos em programação, dados e soluções tecnológicas na prática.
                 </p>
@@ -241,7 +241,7 @@ export default function App() {
                 </p>
               </li>
               <li>
-                <span className="font-bold text-gray-200">Auxiliar de suporte TI | JBM Usinagem</span>
+                <span className="font-bold text-gray-200">Assistente de TI | JBM Usinagem</span>
                 <p className="ml-4 text-gray-400 text-sm">
                   Período: 24/02/2025 - atual <br />
                   Suporte técnico em hardware, software e redes, solucionando problemas e garantindo a manutenção de equipamentos.
