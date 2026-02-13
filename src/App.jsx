@@ -150,7 +150,7 @@ export default function App() {
 
           <div className="flex-1 flex flex-col justify-center">
             <h2 className="text-3xl md:text-5xl font-bold mb-4 leading-tight">
-              Grandes <span className="text-purple-500">resultados</span> começam com pequenas melhorias <span className="text-purple-500">diárias </span>.
+              Grandes <span className="text-purple-500">resultados</span> começam com pequenas melhorias <span className="text-purple-500">diárias</span>.
             </h2>
             <p className="text-lg text-gray-400 mb-6">
               Desenvolvedor focado em soluções criativas e funcionais.
