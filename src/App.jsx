@@ -102,6 +102,15 @@ const meusProjetos = [
     linkGithub: "https://github.com/JoseVitor0/Trabalho-rede-social-python.git",
     tipo: "Pessoal"
   },
+  {
+    titulo: "Monitoramento automatizado de Impressoras",
+    subtitulo: "Automação de projetos aplicado a um cenário real",
+    descricao: "Projeto de monitoramento automatizado de nível de toner, informações e status de impressoras empresariais, utilizando requisições HTTP sobre o Web Server da impressora",
+    tecnologias: ["Python", "Requests"],
+    linkGithub: "https://github.com/JoseVitor0/projeto-impressoras.git",
+    tipo: "Automação",
+    destaque: true
+  }
 ];
 
 export default function App() {
